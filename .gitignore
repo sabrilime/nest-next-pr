@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Output folders
+dist/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+
+# Logs and IDE settings
+*.log
+.vscode/
+.DS_Store
